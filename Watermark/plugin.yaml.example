@@ -1,0 +1,10 @@
+plugin:
+  name: "Watermark"
+  type: "qt"
+  file: "libWatermark.so"
+  config:
+    Watermark: "WM/Watemark.png"
+    Bottom: "WM/Bottom.png"
+    PrintBG: "WM/PrintBG.png"
+    ColorBG: "#ffffff"
+    PrintBG.Frame.Width: 3344
